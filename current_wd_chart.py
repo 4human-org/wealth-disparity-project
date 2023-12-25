@@ -32,3 +32,4 @@ plt.ylabel('Net Worth (in Billion $)')
 plt.legend(title='Population Segment')
 plt.grid(True)
 plt.show()
+
