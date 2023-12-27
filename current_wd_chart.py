@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the provided CSV data
-file_path = '/data/dfa-networth-levels.csv'
+file_path = 'data/dfa-networth-levels.csv'
 wealth_data = pd.read_csv(file_path)
 
 # Data preprocessing
